@@ -1,4 +1,4 @@
-## Customized for Android use
+## :information_source: Customized for Android use :information_source:
 
 ![KryoNet](https://raw.github.com/wiki/EsotericSoftware/kryonet/images/logo.jpg)
 
