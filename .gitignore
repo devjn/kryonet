@@ -8,3 +8,5 @@ target/
 .idea/
 *.iml
 /dependency-reduced-pom.xml
+*.classpath
+.settings/org.eclipse.jdt.core.prefs
