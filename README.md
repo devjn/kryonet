@@ -2,6 +2,8 @@
 
 ![KryoNet](https://raw.github.com/wiki/EsotericSoftware/kryonet/images/logo.jpg)
 
+[![](https://jitpack.io/v/devjn/kryonet.svg)](https://jitpack.io/#devjn/kryonet)
+
 KryoNet can be downloaded on the [releases](https://github.com/EsotericSoftware/kryonet/releases) page. Please use the [KryoNet discussion group](http://groups.google.com/group/kryonet-users) for support.
 
 ## Overview
